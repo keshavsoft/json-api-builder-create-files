@@ -1,5 +1,5 @@
 {
-  "name": "@keshavsoft/json-api-builder-create-files",
+  "name": "json-api-builder-create-files",
   "version": "1.0.0",
   "description": "Create files stage for JSON API Builder.",
   "type": "module",
